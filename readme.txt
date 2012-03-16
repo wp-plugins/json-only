@@ -4,7 +4,7 @@ Donate link: http://q21.co/give
 Tags: JSON
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 
 Revieve a JSON response from any post, page or archive by adding ?json to the url.
 
@@ -28,11 +28,15 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 2. This is the second screen shot
 
 == Changelog ==
+= Adds correct version number to all places =
 
 = 0.1.0 =
 * Initial Release.
 
 == Upgrade Notice ==
+
+= 0.1.1 =
+There is an update for JSON-only.
 
 = 0.1.0 =
 Start using the plugin.

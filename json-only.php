@@ -3,11 +3,10 @@
 /*
 * Plugin Name: JSON only
 * Author: Russell Fair
-* Version: 0.1.0
+* Version: 0.1.1
 	plugin uri: http://q21.co/json-only
 	description: a simple plugin that will return a JSON object of the requested post. Includes title, content and meta
 	author uri: http://q21.co
-	version: 0.1.0
 */
 
 
